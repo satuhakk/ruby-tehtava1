@@ -8,4 +8,4 @@ kirjoita koodi tiedostoon koodi.rb
 
 suorita testit komennolla bundle exec rspec testi_spec.rb
 
-kun testit menevät läpi, pushaa githubiin
+kun testit menevät läpi, pushaa githubiin ja tee pull request
