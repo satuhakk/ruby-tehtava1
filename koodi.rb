@@ -1,5 +1,5 @@
 # kirjoita koodi tänne
 
 def summa(x,y)
-  2
+  x+y
 end
