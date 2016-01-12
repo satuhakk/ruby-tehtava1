@@ -1,4 +1,4 @@
-Tee metodi `summa`, joka _palauttaa_ parametreinaan saamansa kahden luvun summan.
+Tee metodi `summa`, joka _palauttaa_ parametreina saamansa kahden luvun summan.
 
 --
 
